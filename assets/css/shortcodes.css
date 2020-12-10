@@ -2602,3 +2602,8 @@
   height: 1px;
   background-color: #f2f2f2;
 }
+
+/* CUSTOM CSS STARTS */
+.services-content {
+  padding: 244px;
+}
